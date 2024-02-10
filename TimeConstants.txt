@@ -1,0 +1,19 @@
+ambient to hot:
+
+    Thermocouple = 0.2946
+    Thermistor = 1.9340
+    IC Sensor = 0.1383
+
+cold to hot:
+
+    Thermocouple = 0.0602
+    Thermistor = 0.2099
+    IC Sensor = 0.7462
+
+
+hot to ambient:
+
+    Thermocouple = 5.8500
+    Thermistor = 5.6107
+    IC Sensor = 5.3174
+
