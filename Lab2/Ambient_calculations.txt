@@ -1,0 +1,23 @@
+# Thermocouple
+Mean =  21.88668000793651
+std_dev =  0.11077686469678408
+n = 63000
+Mean Thermocouple Temperature = 21.88668000793651 +- 0.0008650373625280152
+
+# Thermistor
+Mean =  20.364251946895656
+std_dev =  0.29955371702390426
+n = 63000
+Mean Thermistor Temperature = 20.364251946895656 +- 0.0023391631277802733
+
+# IC Sensor
+Mean =  22.911359612485107
+std_dev =  0.12161006245423792
+n = 63000
+Mean IC Sensor Temperature = 22.911359612485107 +- 0.0009496319287445506
+
+# All sensors (all sensor data treated as just one set of temperature data)
+Mean =  21.72076385577242
+std_dev =  1.064891243404629
+n = 189000
+Mean Temperature (all sensors) = 21.72076385577242 +- 0.0048009858405894295
